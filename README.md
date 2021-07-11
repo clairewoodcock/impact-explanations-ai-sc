@@ -40,7 +40,7 @@ Each of the factor analysis scripts proceeds as follows:
 #### Partitioned by Explanation Type (Table 4)
 
 - Counterfactual: [analysis_counterfactual.R](src/r/analysis_counterfactual.R).
-- No Explanation: [analysis_no_explanation.R](src/r/analysis_ no_explanation.R).
+- No Explanation: [analysis_no_explanation.R](src/r/analysis_no_explanation.R).
 - Input Influence: [analysis_input_influence.R](src/r/analysis_input_influence.R).
 - Social Proof: [analysis_social_proof.R](src/r/analysis_social_proof.R).
 
