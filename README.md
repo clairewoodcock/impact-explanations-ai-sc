@@ -1,4 +1,4 @@
-# Code for reproducing results in "The Impact of Explanations on Layperson Trust in AI-Driven Symptom Checker Applications: A Cross-Sectional Survey Study"
+# Code for reproducing results in "The Impact of Explanations on Layperson Trust in Artificial Intelligence–Driven Symptom Checker Apps:Experimental Study"
 
 ## Introduction
 
